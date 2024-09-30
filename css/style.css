@@ -1,0 +1,29 @@
+body
+{
+    background-color: #eaeded;
+}
+
+.header
+{
+    border: 1px solid transparent;
+}
+.header:hover
+{
+    border-radius: 5px;
+    border: 1px solid white;
+}
+.acr
+{
+    color: #187385;
+    text-decoration: none;
+}
+.acr:hover
+{
+    text-decoration: underline;
+    color: #187385;
+}
+.offcanvas-body ul li
+{
+    margin-top: 15px;
+    list-style-type: none;
+}
